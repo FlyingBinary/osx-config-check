@@ -3,3 +3,9 @@
 
 #Backed up Preferences Files
 *.bak
+
+#Mac Desktop File
+.DS_Store
+
+#PyCharm Repository File
+.idea
