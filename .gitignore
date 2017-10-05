@@ -1,5 +1,2 @@
-#Compiled Python files
-*.pyc
-
-#Backed up Preferences Files
-*.bak
+.DS_Store
+.idea
