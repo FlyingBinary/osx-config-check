@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-python /usr/local/superlumic/osx-check/app.py "$@"
+cd /usr/local/superlumic/osx-check
+python app.py "$@"
